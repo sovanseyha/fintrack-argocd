@@ -8,7 +8,7 @@ spec:
 
   source:
     repoURL: https://github.com/sovanseyha/fintrack-argocd.git
-    targetRevision: HEAD
+    targetRevision: main
     path: app
 
   destination: 
