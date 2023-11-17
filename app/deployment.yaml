@@ -9,7 +9,7 @@ spec:
   selector:
     matchLabels:
       app: fintrack
-template:
+  template:
     metadata:
       labels:
         app: fintrack
